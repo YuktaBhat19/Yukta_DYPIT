@@ -1,0 +1,2 @@
+1. Week 1 
+Successfully completed my Week 1 Machine Learning Foundations assignment. This week focused on strengthening core concepts including Python Fundamentals, NumPy, Pandas, Linear Algebra, Statistics, and Probability Theory. Through hands-on exercises, I practiced data structures, functions, exception handling, data analysis, matrix operations, statistical measures, and probability concepts. Looking forward to building on these fundamentals in the upcoming weeks.
